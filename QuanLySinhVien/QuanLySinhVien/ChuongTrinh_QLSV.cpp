@@ -18,10 +18,12 @@ void main(){
 		cout << ("**      0. Thoat                        **\n");
 		cout << ("******************************************\n");
 		cout << ("**       Nhap lua chon cua ban          **\n");
+		nhap_SV(sv);
+		cin >> key;
 		switch (key){
-		case 1:
+		case 1:						
 			break;
-		case 2:
+		case 2:			
 			break;
 		case 3:
 			break;

@@ -20,9 +20,9 @@ void main(){
 		cout << "**       Nhap lua chon cua ban          **\n";
 		cin >> key;
 		switch (key){
-		case 1:
+		case 1:						
 			break;
-		case 2:
+		case 2:			
 			break;
 		case 3:
 			break;

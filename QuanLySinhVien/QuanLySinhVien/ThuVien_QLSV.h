@@ -26,7 +26,7 @@ void xeploai_SV(SINHVIEN a);
 
 
 //Danh Sach Sinh Vien
-void nhap_DSSV(DANHSACH_SV a[], int n);
+void nhap_DSSV(DANHSACH_SV& a);
 void xuat_DSSV(DANHSACH_SV a[], int n);
 void sapxep_DSSV(DANHSACH_SV a[], int n);
 void xeploai_DSSV(DANHSACH_SV a[], int n);

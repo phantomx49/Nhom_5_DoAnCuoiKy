@@ -20,7 +20,12 @@ void main(){
 		cout << "**       Nhap lua chon cua ban          **\n";
 		cin >> key;
 		switch (key){
-		case 1:						
+		case 1:		
+			cout << "\nBan da chon nhap DS sinh vien!";
+			nhap_DSSV(dssv);
+			cout << "\nBan da nhap thanh cong!";
+			daNhap = true;
+			cout << "\nBam phim bat ky de tiep tuc!";
 			break;
 		case 2:			
 			break;
